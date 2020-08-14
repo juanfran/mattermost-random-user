@@ -1,5 +1,5 @@
 {
-    "id": "mattermost-random-user",
+    "id": "random-user",
     "name": "Random user",
     "description": "Get a random channel user",
     "version": "0.1.0",
