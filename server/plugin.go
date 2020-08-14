@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"math/rand"
 	"net/http"
 	"strings"
@@ -73,9 +72,6 @@ func (p *Plugin) ExecuteCommand(c *plugin.Context, args *model.CommandArgs) (*mo
 
 		noBots = append(noBots, user)
 	}
-
-	fmt.Println("empezamos")
-	fmt.Println(action)
 
 	if action == "users" {
 		shuffleUsers(noBots)
