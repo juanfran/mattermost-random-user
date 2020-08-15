@@ -10,7 +10,7 @@ Go to **System Console > Plugins > Management** upload and enable the plugin.
 
 ## Usage
 
-In any channel you can use the following command.
+In any channel you can use the following commands.
 
 - `/random-user` - one random user
 - `/random-user user-here` - one random online user
