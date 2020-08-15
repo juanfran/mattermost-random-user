@@ -13,4 +13,6 @@ Go to **System Console > Plugins > Management** upload and enable the plugin.
 In any channel you can use the following command.
 
 - `/random-user` - one random user
+- `/random-user user-here` - one random online user
 - `/random-user users` - random user list
+- `/random-user users-here` - random online user list

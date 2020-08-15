@@ -15,7 +15,7 @@ const manifestStr = `
   "id": "random-user",
   "name": "Random user",
   "description": "Get a random channel user",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "min_server_version": "5.12.0",
   "server": {
     "executables": {
